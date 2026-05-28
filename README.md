@@ -1,4 +1,4 @@
-# fch-opendata
+# Open Datasets of the Federal Chancellery
 
 Additional Information in regards of the Open Data Sets of the Federal Chancellery. In general the open data sets are provided through the Linked Data Services [LINDAS](https://lindas.admin.ch/).
 
