@@ -16,17 +16,29 @@ All published information in regards to Political Rights (Votations, Initiatives
 
 * **Overview on Visualize**: https://visualize.admin.ch/en/browse/theme/https%3A%2F%2Fregister.ld.admin.ch%2Fopendataswiss%2Fcategory%2Fpolitics?dataSource=Prod
 
+#### Namedgraphs on LINDAS
+* https://lindas.admin.ch/fch/popular-vote
+* https://lindas.admin.ch/fch/popular-initiative
+* https://lindas.admin.ch/fch/referendum
+* https://lindas.admin.ch/fch/petition
 
 ### Extra-parliamentary Commission
 Extra-parliamentary commissions are bodies established by the Federal Council or a federal department that perform public functions on behalf of the government and the administration.
 All information available at https://www.admin.ch/de/ausserparlamentarische-kommissionen-gremienverzeichnis is based on open data available on LINDAS.
 
+* **Overview on Visualize**: https://visualize.admin.ch/en/browse?search=apg&order=SCORE&dataSource=Prod
+* **Namedgraph on LINDAS**: https://lindas.admin.ch/fch/extra-parliamentary-commission
+
 ### Terminology
 The entries of the [terminology database](https://www.termdat.bk.admin.ch/) of the Swiss Confederation is mostly available as open-data.
 
 * **Dataset Description**: https://register.ld.admin.ch/.well-known/dataset/termdat
-
+* **Namedgraph on LINDAS**: https://lindas.admin.ch/fch/termdat
+  
 Note: In general entries under register.ld.admin.ch/termdat/ are redirected to end-user interface www.termdat.bk.admin.ch. You can [disable the redirect](https://lindas.admin.ch/know-how/dereferencing/) by providing an URI parameter `disableSchemaUrlRedirect=true` (e.g. https://register.ld.admin.ch/termdat/56905?disableSchemaUrlRedirect=true).
+
+### Federal Council
+A dataset about all memembers of the Federal Council starting 1884 base of https://www.admin.ch/de/alle-bundesraete. 
 
 ### Official Publications (Laws and Ordonances)
 The official publications of the Swiss Confederations are available as open data. The metadata of the published documents are described in the JOLux Ontology. All new published documents are itself available as XML Documents following the [LegalDocML](Datamodellhttps://www.oasis-open.org/committees/tc_home.php?wg_abbrev=legaldocml).
