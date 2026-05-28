@@ -11,7 +11,7 @@ Pull-request with corrections, additional explanation or examples are appreciate
 
 ## Overview of the available Datasets
 
-### Political Rigths
+### Political Rights
 All published information in regards to Political Rights (Votations, Initiatives, Petitions to the Federal Council) are availabel on LINDAS. Some datasets are also available on http://visualize.admin.ch.
 
 * **Overview on Visualize**: https://visualize.admin.ch/en/browse/theme/https%3A%2F%2Fregister.ld.admin.ch%2Fopendataswiss%2Fcategory%2Fpolitics?dataSource=Prod
