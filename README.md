@@ -26,7 +26,7 @@ All published information in regards to Political Rights (Votations, Initiatives
 Extra-parliamentary commissions are bodies established by the Federal Council or a federal department that perform public functions on behalf of the government and the administration.
 All information available at https://www.admin.ch/de/ausserparlamentarische-kommissionen-gremienverzeichnis is based on open data available on LINDAS.
 
-* **Overview on Visualize**: https://visualize.admin.ch/en/browse?search=apg&order=SCORE&dataSource=Prod
+* **Overview on Visualize**: [https://visualize.admin.ch/](https://visualize.admin.ch/en/browse?search=apg&order=SCORE&dataSource=Prod)
 * **Namedgraph on LINDAS**: [https://lindas.admin.ch/fch/extra-parliamentary-commission
 ](https://ld.admin.ch/sparql/#query=SELECT%20*%20FROM%20%3Chttps%3A%2F%2Flindas.admin.ch%2Ffch%2Fextra-parliamentary-commission%3E%20%7B%20%3Fsub%20%3Fpred%20%3Fobj%20.%20%7D%20LIMIT%2020&endpoint=https%3A%2F%2Fld.admin.ch%2Fquery&requestMethod=POST&tabTitle=Query&headers=%7B%7D&contentTypeConstruct=application%2Fn-triples%2C*%2F*%3Bq%3D0.9&contentTypeSelect=application%2Fsparql-results%2Bjson%2C*%2F*%3Bq%3D0.9&outputFormat=table)
 ### Terminology
