@@ -38,7 +38,7 @@ The entries of the [terminology database](https://www.termdat.bk.admin.ch/) of t
 Note: In general entries under register.ld.admin.ch/termdat/ are redirected to end-user interface www.termdat.bk.admin.ch. You can [disable the redirect](https://lindas.admin.ch/know-how/dereferencing/) by providing an URI parameter `disableSchemaUrlRedirect=true` (e.g. https://register.ld.admin.ch/termdat/56905?disableSchemaUrlRedirect=true).
 
 ### Federal Council
-A dataset about all memembers of the Federal Council starting 1884 base of https://www.admin.ch/de/alle-bundesraete. 
+A dataset on all members of the Federal Council starting 1848 being the base of the information provided at https://www.admin.ch/de/alle-bundesraete.
 
 ### Official Publications (Laws and Ordonances)
 The official publications of the Swiss Confederations are available as open data. The metadata of the published documents are described in the JOLux Ontology. All new published documents are itself available as XML Documents following the [LegalDocML](Datamodellhttps://www.oasis-open.org/committees/tc_home.php?wg_abbrev=legaldocml).
