@@ -14,7 +14,7 @@ Pull-request with corrections, additional explanation or examples are appreciate
 ### Political Rights
 All published information in regards to Political Rights (Votations, Initiatives, Petitions to the Federal Council) are availabel on LINDAS. Some datasets are also available on http://visualize.admin.ch.
 
-* **Overview on Visualize**: https://visualize.admin.ch/en/browse/theme/https%3A%2F%2Fregister.ld.admin.ch%2Fopendataswiss%2Fcategory%2Fpolitics?dataSource=Prod
+* **Overview on Visualize**: [https://visualize.admin.ch](https://visualize.admin.ch/en/browse/theme/https%3A%2F%2Fregister.ld.admin.ch%2Fopendataswiss%2Fcategory%2Fpolitics?dataSource=Prod)
 
 #### Namedgraphs on LINDAS
 * [https://lindas.admin.ch/fch/popular-vote](https://ld.admin.ch/sparql/#query=SELECT%20*%20FROM%20%3Chttps%3A%2F%2Flindas.admin.ch%2Ffch%2Fpopular-vote%3E%20%7B%20%3Fsub%20%3Fpred%20%3Fobj%20.%20%7D%20LIMIT%2020&endpoint=https%3A%2F%2Fld.admin.ch%2Fquery&requestMethod=POST&tabTitle=Query&headers=%7B%7D&contentTypeConstruct=application%2Fn-triples%2C*%2F*%3Bq%3D0.9&contentTypeSelect=application%2Fsparql-results%2Bjson%2C*%2F*%3Bq%3D0.9&outputFormat=table)
